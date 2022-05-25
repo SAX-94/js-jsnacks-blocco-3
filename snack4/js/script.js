@@ -1,8 +1,8 @@
-const invitati = ["Brad Pitt", "Bill Burr", "Michael Jordan", "Bill Gates"]
+const invitati = ["Brad Pitt", "Bill Burr", "Michael Jordan", "Bill Gates"];
 
 
 const output = document.querySelector(".page-cont");
-const nameSurname = prompt("Inserisci nome e cognome:")
+const nameSurname = prompt("Inserisci nome e cognome:");
 
 let found = false;
 let result = `<span class="red">Il tuo nome non è presente nella lista degli invitati.</span>`;
