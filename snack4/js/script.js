@@ -1,4 +1,4 @@
-const invitati = ["Brad Pitt", "Bill Burr", "Michael Jordan", "Bill Gates"]
+const invitati = ["Brad Pitt", "Bill Burr", "Michael Jordan", "Bill Gates"];
 
 
 const output = document.querySelector(".page-cont");
