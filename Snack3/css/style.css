@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(225, 123, 39);
+}
+
+h1 {
+    font-weight: bolder;
+    font-size: 120px;
+    color: blue;
+}
+
+.page-cont {
+    height: 100vh;
+}
